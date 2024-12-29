@@ -1,2 +1,6 @@
 # Check Point from IPYNB
 .ipynb_checkpoints
+
+
+# All CSV File 
+*.csv
